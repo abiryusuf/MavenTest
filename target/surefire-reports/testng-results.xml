@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qa.maven.DemoTest" duration-ms="115" started-at="2018-11-02T16:19:57Z" finished-at="2018-11-02T16:19:57Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="115" started-at="2018-11-02T16:19:57Z" finished-at="2018-11-02T16:19:57Z">
+      <class name="com.qa.maven.DemoTest">
+        <test-method status="PASS" signature="Sub()[pri:0, instance:com.qa.maven.DemoTest@6fb554cc]" name="Sub" duration-ms="39" started-at="2018-11-02T12:19:57Z" finished-at="2018-11-02T12:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sub -->
+        <test-method status="PASS" signature="Sum()[pri:0, instance:com.qa.maven.DemoTest@6fb554cc]" name="Sum" duration-ms="5" started-at="2018-11-02T12:19:57Z" finished-at="2018-11-02T12:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sum -->
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.maven.DemoTest@6fb554cc]" name="div" duration-ms="1" started-at="2018-11-02T12:19:57Z" finished-at="2018-11-02T12:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+      </class> <!-- com.qa.maven.DemoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.maven.DemoTest -->
+</testng-results>
